@@ -1,4 +1,4 @@
-# example-project
+# example project
 
 # About Me
 
