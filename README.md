@@ -9,5 +9,3 @@
 # News of the day
 
 - I changed something in this line
-- naechste zeile
-
