@@ -8,4 +8,4 @@
 
 # News of the day
 
-- I changed something in this line todayyy
+- I changed something in this line today
